@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Happy Paws - Pet Sales & Rentals</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>🐾 Welcome to Happy Paws 🐾</h1>
+    <p>Your trusted partner for pet sales, rentals, food & accessories!</p>
+  </header>
+
+  <section>
+    <h2>Our Services</h2>
+    <ul>
+      <li>🐶 Pet Sales</li>
+      <li>🐱 Pet Rentals</li>
+      <li>🦴 Pet Foods</li>
+      <li>🎁 Accessories</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>Email: contact@happypaws.com</p>
+    <p>Phone: +123-456-7890</p>
+  </section>
+
+  <!--Start of Tawk.to Script-->
+< type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/684c0b87bed1791917233ca7/1itkgq3pt';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+</body>
+</html>
